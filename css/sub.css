@@ -1,0 +1,275 @@
+.licolor {color:#005b96;}
+
+
+#sul, #sol, #sli {list-style:none; margin:0; padding:0;}
+
+#sub_all{width: 1200px; height: auto; margin: 0 auto;}
+
+#submenu{width: 1200px; height:40px; float:left; margin: 5px 0 0 0px;}
+#submenu > ul {font-size:14px; color:#666;}
+#submenu > ul > li {float:left; margin:10px 0 0 10px;}
+#submenu > ul > li > a {text-decoration:none; color: #666;}
+
+#submenu ul #subcolor a {font-weight: bold; color: #11264f;}
+
+#contents{width: 1200px; height: 1000px; padding:50px 0px; position:relative; margin: 0 auto;}
+#contents #round {width: 126px; height: 18px; display: inline; margin: 0 auto;}
+#contents #round img {width: 60px; height: 18px;}
+#contents h3 {font-size: 17px; margin: 13px;}
+
+#context {width:600px; height:500px; position:absolute; top:70px; right:0px; padding: 30px 7px; margin: 0 10px 0 0px;}
+#context h5 {font-size: 15px; margin: 5px 0px;}
+
+
+/*js 이미지 오버시 크게 변경*/
+.sb1 {float:left;}
+.sb1:hover {cursor:pointer;}
+#box {width:500px; height:605px; padding: 0; margin: 0;}
+#product {width:505px; height:100px; margin: 2px 0px;}
+.change {width:500px; height:500px; border-radius: 5px;}
+#product img {width:95px; height:95px; margin: 0 6px 0 0px; border-radius: 5px;}
+#sbspace {float: left;}
+/*이미지 변경 끝*/
+
+
+#table1 {width:100%; border-top:3px solid #e9e9e9; border-bottom:1px solid #e9e9e9; margin: 10px 5px;}
+
+td {padding:10px 20px; font-size: 14px;}
+
+td:first-child {width:120px;}
+
+#tp {font-size: 20px; font-weight: bold; margin: 25px 10px 20px 10px;}
+#tspan {font-size: 24px; font-weight: bold; color: navy; margin: 25px 10px 20px 10px;}
+
+#bt1 {border: 0; background-color: #11264f; padding: 15px; color: #fff; font-size: 14px; border-radius: 5px; width: 191px; margin: 10px 0px;}
+#bt1:hover {background-color: #13374f; transition: 0.5s;}
+#bt2 {border: 0; background-color: #ccc; padding: 15px; color: #fff; font-size: 14px; border-radius: 5px; width: 191px;}
+#bt3 {border: 0; background-color: #fff; border: 1px solid #ccc; padding: 15px; color: #666; font-size: 14px; border-radius: 5px; width: 191px;}
+#bt1:hover {background-color: #13374f; transition: 0.5s;}
+
+
+select{width:120px; height:30px; float:left; margin:5px 0 0 0px; font-family:"돋움"; font-size:13px; color:#666; border:1px solid #eee; padding:0px 0 0 10px; display: inline-block;}
+
+
+
+#otherbox {width: 1200px; height: 280px; margin: 70px 0 0 0px; border-top: 1px solid #eee; border-radius: 5px;}
+#otherbox .other {width: 170px; height: 220px; float: left; margin: 20px 14px; border-radius: 5px; overflow: hidden;}
+#otherbox .other img {width: 100%; height: 170px; float: left; border-radius: 5px;}
+#otherbox .other img:hover {opacity: 0.8; transition: 0.5s;}
+
+#otherbox .other h5 {font-size: 12px; padding: 5px; color: #666; float: left;}
+
+#otherbox h3 {padding: 0 10px; color: #666; font-size: 20px;}
+
+
+
+
+/*상품상세정보*/
+
+#detail ul {width:1200px; height:50px; margin:0 auto;}
+
+#detail ul > li {width:300px; height:100%; background-color:#fff; float:left; text-align:center; padding:15px 0 0 0px; border:1px solid #ddd; border-bottom:1px solid #13374f; font-size:13px;}
+
+ul > li > a {color:#000;}
+
+
+#detail {width:1200px; height:12000px; margin:30px auto; padding:50px 0px;}
+
+#detail  > ul > li:first-child {background-color:#13374f; color: #fff; border:1px solid #13374f; border-bottom:none;}
+
+/*상품상세정보 끝*/
+
+
+/*서브 슬라이드 이미지*/
+
+#subimg1 {width: 950px; height: 1107px; margin:100px auto;}
+#subimg1 img {width: 100%; height: 1107px;}
+
+#subimg2 {width: 950px; height: 1010px; margin:100px auto;}
+#subimg2 img {width: 100%; height: 991px;}
+
+#subimg3 {width: 950px; height: 550px; margin:100px auto;}
+#subimg3 img {width: 100%; height: 550px;}
+
+#subimg4 {width: 950px; height: 1340px; margin:100px auto;}
+#subimg4 img {width: 100%; height: 1244px;}
+
+#subimg5 {width: 950px; height: 1050px; margin:100px auto;}
+#subimg5 img {width: 100%; height: 1042px;}
+
+#subimg6 {width: 950px; height: 1320px; margin:100px auto;}
+#subimg6 img {width: 100%; height: 1320px;}
+
+#subimg7 {width: 950px; height: 1100px; margin:100px auto;}
+#subimg7 img {width: 100%; height: 1059px;}
+
+#subimg8 {width: 950px; height: 480px; margin:100px auto;}
+#subimg8 img {width: 100%; height: 445px;}
+
+#subimg9 {width: 950px; height: 400px; margin:100px auto;}
+#subimg9 img {width: 100%; height: 324px;}
+
+#subimg10 {width: 950px; height: 670px; margin:100px auto;}
+#subimg10 img {width: 100%; height: 509px;}
+
+#subimg11 {width: 950px; height: 630px; margin:100px auto;}
+#subimg11 img {width: 100%; height: 612px;}
+
+/*서브 슬라이드 이미지 끝*/
+
+/*서브 슬라이드 이미지 글씨*/
+
+.enwrite {font-size: 27px; text-align: center; margin: 10px 0px; color: #152536; font-family: 'Noto Serif', serif;}
+.kowrite {font-size: 16px; text-align: center; margin: 20px 0px; color: #152536;}
+
+.color {width: 475px; height: 40px; display: inline-block; float: left; text-align: center;}
+
+.textcenter {width: 950px; height: 40px; text-align: center;}
+
+/*서브 슬라이드 이미지 글씨 끝*/
+
+
+
+
+/*SPEC 세부정보*/
+
+#infortable, .infortr, .inforth , .infortd {margin:0; padding:0;}
+
+
+#inforbox {width: 800px; height: 500px; margin: 0 auto;}
+#inforbox img {width: 100%; height: 100%; border: 1px solid #eee; margin: 10px 0px;}
+
+
+
+#detail_tablebox {width:800px; height:1350px; margin:120px auto 0px; display:block; border-top:1px solid #ddd;}
+
+#detail_tablebox > h4 {text-align:center; margin: 40px 0 0 0px; font-size:35px;}
+
+#detail_tablebox > span { display:inline-block; font-size:16px; margin:5px 0 0 0px; width:100%; text-align:center;}
+
+#detail_tablebox > #spanright { display:inline-block; font-size:12px; color: #ccc;  margin:15px 0 0 0px; width:100%; text-align:right;} 
+
+
+#detail_tablebox > table {display:block; margin:20px 0 0 0px; line-height:30px;}
+
+#detail_tablebox > table th {font-size:14px; text-align:left; width:200px; background-color: #ddd; padding:0 0 0 20px; color:#444;}
+
+#detail_tablebox > table td {font-size:14px; text-align:left; width:700px; background-color:#eee; padding:0 0 0 20px; color:#444;}
+
+/*SPEC 세부정보 끝*/
+
+
+
+/*배송안내*/
+#shipping > ul {width:1200px; height:50px; margin:0 auto;}
+
+#shipping > ul > li {width:300px; height:100%; background-color:#fff; float:left; text-align:center; padding:15px 0 0 0px; border:1px solid #ddd; border-bottom:1px solid #13374f; font-size:13px;}
+
+
+
+#shipping > ul > li > a {color:#000;}
+
+#shipping {width:1200px; height:550px; margin:0 auto;}
+
+#shipping > ul > li:nth-child(2) {background-color:#13374f; border:1px solid #13374f; border-bottom:none; color:#fff;}
+
+#shipping > h2 {float:left; padding:30px 20px 0px; font-size:19px;}
+
+#shipping > #shipping_textbox {width:100%; height:180px; margin: 30px 0px;}
+
+#shipping > #shipping_textbox > ul {display:block; width:1100px; height:280px;  margin:30px 35px 0px;}
+
+#shipping > #shipping_textbox > ul > li {font-size:13px; list-style:disc; margin:7px 10px; color:#666;}
+/*배송안내 끝*/
+
+
+
+/*상품후기*/
+.rtable, .rtr, .rth ,.rtd {margin:0; padding:0; }
+
+#review ul {width:1200px; height:50px; margin:0 auto;}
+
+#review ul > li {width:300px; height:100%; background-color:#fff; float:left; text-align:center; padding:15px 0 0 0px; border:1px solid #ddd; border-bottom:1px solid #13374f; font-size:13px;}
+
+ul > li > a {color:#000;}
+
+#review_tablebox  table th {width:80px; border-bottom:1px solid #eee; color:#333}
+
+#review_tablebox  table td:first-of-type {width:770px; border-bottom:1px solid #eee;}
+
+#review_tablebox  table td:first-of-type > a {color:#333; text-decoration: none;}
+
+#review_tablebox  table td:nth-of-type(2) {width:80px; text-align:center; border-bottom:1px solid #eee;}
+
+#review_tablebox  table td:nth-of-type(3) {width:120px; text-align:center; border-bottom:1px solid #eee;}
+
+#review_tablebox table td:last-of-type {width:150px; text-align:center; border-bottom:1px solid #eee;}
+
+
+
+
+#review {width:1200px; height:450px; margin:0 auto;}
+
+#review  > ul > li:nth-child(3) {background-color:#13374f; color: #fff; border:1px solid #13374f; border-bottom:none;}
+
+#review > #review_tablebox > button {float:right; margin:25px 0px; width:120px; height:30px; color:#fff; font-size:12px; background-color:#435c7a; border-radius: 5px;}
+
+#review > #review_tablebox > button:hover {cursor:pointer;}
+
+
+
+#review > #review_tablebox > table {display:inline-block; margin:0px auto; border-top:1px solid #333; line-height:50px; width:1200px; font-size:13px; color:#333;}
+/*상품후기 끝*/
+
+
+
+
+/*상품문의*/
+.btr, .bth, .btd {margin:0; padding:0;}
+
+.btable {padding:0; margin:0 auto; box-sizing:border-box; text-decoration:none; font-family: 'Noto Sans KR', sans-serif;}
+
+#table4box {width: 1200px; height: 450px; margin: 0 auto;}
+
+#inquiry  ul {width:1200px; height:50px; margin:0 auto;}
+
+#inquiry  ul > li {width:300px; height:100%; background-color:#fff; float:left; text-align:center; padding:15px 0 0 0px; border:1px solid #ddd; border-bottom:1px solid #13374f; font-size:13px;}
+
+ul > li > a {color:#000; text-decoration: none;}
+
+#inquiry_tablebox table th {width:80px; border-bottom:1px solid #eee; color:#333;}
+
+#inquiry_tablebox table td:first-of-type {width:770px; border-bottom:1px solid #eee;}
+
+#inquiry_tablebox table td:first-of-type > a {color:#333; text-decoration: none;}
+
+#inquiry_tablebox table td:nth-of-type(2) {width:80px; text-align:center; border-bottom:1px solid #eee;}
+
+#inquiry_tablebox table td:nth-of-type(3) {width:120px; text-align:center; border-bottom:1px solid #eee;}
+
+#inquiry_tablebox table td:last-of-type {width:150px; text-align:center; border-bottom:1px solid #eee;}
+
+
+
+
+
+#inquiry {width:1200px; height:400px; margin:100px auto;}
+
+#inquiry > ul > li:last-child {background-color:#13374f; color: #fff; border:1px solid #13374f; border-bottom:none;}
+
+#inquiry > #inquiry_tablebox {width:1200px; height:450px; margin:0 auto; text-align:center;}
+
+#inquiry > #inquiry_tablebox > button {float:right; margin:25px 0px 25px 10px; width:120px; height:30px; color:#fff; font-size:12px; background-color:#435c7a; border-radius: 5px;}
+
+#inquiry > #inquiry_tablebox > button:hover {cursor:pointer;}
+
+#inquiry > #inquiry_tablebox > table {display:inline-block; margin:0px auto; border-top:1px solid #333; line-height:50px; width:1200px; font-size:13px; color:#333;}
+
+/*상품문의 끝*/
+
+
+
+/*배너1,2*/
+.bannerstyle {width: 100%; height: 120px; background-color: #eaeaea;}
+.banner {width: 1260px; height: 120px; margin: 30px auto;}
+.banner > img {width: 100%; height: 100%;}
